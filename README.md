@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Servers FiveM, Another](http://discord.gg/Hg5deXzVut)
-* ✉️  You can contact me at [fannycityfivem@gmail.com, tee.ggvv@gmail.com](mailto:fannycityfivem@gmail.com, tee.ggvv@gmail.com)
+* ✉️  You can contact me at (fannycityfivem@gmail.com, tee.ggvv@gmail.com)
 
 ### Skills
 
