@@ -3,12 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Servers FiveM, Another](http://discord.gg/Hg5deXzVut)
-* ✉️  You can contact me at (hajimestudio.net@gmail.com)
+* ✉️  You can contact me at (cx.studio.thai@gmail.com)
 # แนะนำตัว 
 - ผมชื่อ ตี๋ 
 - อายุ 19
-- เรียน ปวส.1 เทคนิคยานยนต์ 
+- เรียน ปวส.2 เทคนิคยานยนต์ 
 - สิ่งชอบ เขียนโค้ดเกมต่างๆ หรือ โค้ดอื่น
+- web: http://183.88.227.180
 
 ### Skills
 
