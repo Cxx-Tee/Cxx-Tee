@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - อายุ 19
 - เรียน ปวส.2 เทคนิคยานยนต์ 
 - สิ่งชอบ เขียนโค้ดเกมต่างๆ หรือ โค้ดอื่น
-- web: 
+- Web: https://generous-bird-apparently.ngrok-free.app/
 
 ### Skills
 
